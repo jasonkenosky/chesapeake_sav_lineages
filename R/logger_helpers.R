@@ -2,7 +2,7 @@
 # File: logger_helpers.R
 # Purpose: Reusable logging utilities for reproducible R scripts
 # Author: Jason Kenosky
-# Philosophy: clarity > cleverness | nouns for objects | verbs for functions
+# Philosophy: clarity | nouns for objects | verbs for functions
 # ============================================================
 
 suppressPackageStartupMessages({
