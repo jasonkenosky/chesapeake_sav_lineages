@@ -29,6 +29,7 @@ The workflow builds node and edge tables, identifies graph-connected components,
 
 ## Repository Structure
 
+```text
 chesapeake_sav_lineages/
 ├── R/                  # Core processing scripts (p1_01 → p1_06)
 ├── data_processed/     # Derived lineage products (CSV, GPKG)
@@ -36,6 +37,7 @@ chesapeake_sav_lineages/
 ├── logs/               # Timestamped execution logs
 ├── README.md
 └── .gitignore
+```
 
 ## Pipeline Summary
 
